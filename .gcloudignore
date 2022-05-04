@@ -1,8 +1,0 @@
-/__pycache__
-/.venv
-/deploy
-/doc
-.flaskenv
-.git
-.gitignore
-README.md
